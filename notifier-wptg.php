@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Notifier WP-Telegram
-Description: Sending Sureforms and Woocommerce notifications to Telegram
+Description: Sending Sureforms and Woocommerce notifications to Telegram bot
 Version: 1.2
 Author: Ahmed Sultanline
 Author URI: https://ahmedsultanline.com
